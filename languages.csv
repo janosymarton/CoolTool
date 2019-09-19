@@ -1,0 +1,225 @@
+Bulgarian;bg;bul;1251;1
+Croatian;hr;hrv;1250;1
+Czech;cs;cze;1250;1
+Danish;da;dan;1252;1
+Dutch;nl;dut;1252;1
+English;en;eng;1252;1
+English - United Kindgom;en-gb;eng-GB;1252;1
+Estonian ;et;est;1257;1
+Finnish;fi;fin;1252;1
+French;fr;fre;1252;1
+German;de;ger;1252;1
+Greek;el;gre;1253;1
+Hungarian;hu;hun;1250;1
+Italian;it;ita;1252;1
+Latvian;lv;lav;1257;1
+Lithuanian;lt;lit;1257;1
+Norwegian Bokmal;nb;nnb;1252;1
+Polish;pl;pol;1250;1
+Portuguese;pt;por;1252;1
+Russian;ru;rus;1251;1
+Serbian (Latin);sh;scr;1250;1
+Slovak;sk;slo;1250;1
+Slovenian;sl;slv;1250;1
+Spanish;es;spa;1252;1
+Swedish;sv;swe;1252;1
+Turkish;tr;tur;1254;1
+Ukrainian;uk;ukr;1251;1
+Afrikaans;af;afr;1252;0
+Albanian;sq;alb;1252;0
+Amharic;am;amh;;0
+Arabian;ar;ara;1256;0
+Arabian (Algeria);ar-DZ;ara-DZ;1256;0
+Arabian (Bahrain);ar-BH;ara-BH;1256;0
+Arabian (Egypt);ar-EG;ara-EG;1256;0
+Arabian (Iraq);ar-IQ;ara-IQ;1256;0
+Arabian (Jordan);ar-JO;ara-JO;1256;0
+Arabian (Kuwait);ar-KW;ara-KW;1256;0
+Arabian (Lebanon);ar-LB;ara-LB;1256;0
+Arabian (Lybia);ar-LY;ara-LY;1256;0
+Arabian (Morocco);ar-MA;ara-MA;1256;0
+Arabian (Oman);ar-OM;ara-OM;1256;0
+Arabian (Qatar);ar-QA;ara-QA;1256;0
+Arabian (Saudi Arabia);ar-SA;ara-SA;1256;0
+Arabian (Syria);ar-SY;ara-SY;1256;0
+Arabian (Tunisia);ar-TN;ara-TN;1256;0
+Arabian (U.A.E.);ar-AE;ara-AE;1256;0
+Arabian (Yemen);ar-YE;ara-YE;1256;0
+Armenian;hy;hye;2011;0
+Assamese;as;asm;2002;0
+Azeri (Cyrillic);az-Cyrl;azf;2016;0
+Azeri (Latin);az;aze;1252;0
+Basque;eu;baq;1250;0
+Belarusian;be;bel;1251;0
+Bengali;bn;ben;2002;0
+Bengali - Bangladesh;bn-BD;ben-BD;2002;0
+Bengali - India;bn-IN;ben-IN;2002;0
+Bislama;bi;bis;1252;0
+Bosnian (Cyrillic);bs-Cyrl;boc;1251;0
+Bosnian (Latin);bs-Latn;bos;1250;0
+Burmese;my;mya;;0
+Catalan;ca;cat;1252;0
+Chin;ctd;ctd;1252;0
+Chinese (Hong Kong);zh-HK;zho-HK;1252;0
+Chinese (Macao);zh-MO;zho-MO;1252;0
+Chinese (Singapore);zh-SG;zho-SG;1252;0
+Chinese (Taiwan);zh-TW;zho-TW;1252;0
+Chinese_PRC;zh-CN;zho-CN;1252;0
+Dari;prs-AF;prs;2005;0
+Dinka;din;din;2009;0
+Dutch - Belgium;nl-be;dut-BE;1252;0
+Dutch - Holland;nl-nl;dut-NL;1252;0
+English - Australia;en-au;eng-AU;1252;0
+English - Belize;en-bz;eng-BZ;1252;0
+English - Canada;en-ca;eng-CA;1252;0
+English - Caribbean;en-029;eng-CB;1252;0
+English - Ireland;en-ie;eng-IE;1252;0
+English - Jamaica;en-jm;eng-JM;1252;0
+English - New Zealand;en-nz;eng-NZ;1252;0
+English - Phillippines;en-ph;eng-PH;1252;0
+English - South Africa;en-za;eng-ZA;1252;0
+English - Trinidad;en-tt;eng-TT;1252;0
+English - Zimbabwe;en-zw;eng-ZW;1252;0
+English_United_States;en-us;eng-US;1252;0
+Esperanto;eo;epo;28593;0
+Farsi;fa;fas;1256;0
+Fijian;fj;fij;1252;0
+Filipino;fil;fil;1252;0
+Flemish;vls;vls;1252;0
+French - Belgium;fr-be;fre-BE;1252;0
+French - Canada;fr-ca;fre-CA;1252;0
+French - France;fr-fr;fre-FR;1252;0
+French - Luxembourg;fr-lu;fre-LU;1252;0
+French - Monaco;fr-mc;fre-MC;1252;0
+French - Switzerland;fr-ch;fre-CH;1252;0
+Frisian, Western;fy;fry;1252;0
+Galician;gl;glg;1252;0
+Georgian;ka;kat;2012;0
+German - Austria;de-at;ger-AT;1252;0
+German - Liechtenstein;de-li;ger-LI;1252;0
+German - Luxembourg;de-lu;ger-LU;1252;0
+German - Switzerland;de-ch;ger-CH;1252;0
+German_Germany;de-de;ger-DE;1252;0
+Gujarati;gu;guj;2008;0
+Haitian Creole;ht;hat;1252;0
+Hausa;ha-Latn;hau;2009;0
+Hazaragi;haz;haz;2005;0
+Hebrew;he;heb;1255;0
+Hindi;hi;hin;2000;0
+Hmong;hmn;hmn;1252;0
+Icelandic;is;ice;1252;0
+Igbo;ig;ibo;2009;0
+Indonesian;id;ind;1252;0
+Irish gaelic;ga;gle;1252;0
+Italian - Italy;it-it;ita-IT;1252;0
+Italian - Switzerland;it-ch;ita-CH;1252;0
+Japanese;ja;jpn;1252;0
+Javanese;jv;jav;1252;0
+Kannada;kn;kan;2004;0
+Karen;ksw;ksw;;0
+Kashmiri;ks;kas;2005;0
+Kayah (Latin);kyu-Latn;kyu;1252;0
+Kayah (Myanmar);eky-Mymr;eky;;0
+Kazakh;kk;kaz;2016;0
+Khmer;km;khm;;0
+Kiribati ;gil;gil;1252;0
+Klingon;qqq;qqq;1252;0
+Korean;ko;kor;1252;0
+Kurdish (Arabic);ku-Arab;ckb;2005;0
+Kurdish (Cyrillic);ku-Cyrl;kmr;2016;0
+Kurdish (Latin);ku-Latn;kur;2009;0
+Kyrgyz (Cyrillic);ky;kir;2016;0
+Lao;lo;lao;;0
+Latin;la;lat;1252;0
+Lingala;ln;lin;2009;0
+Luxembourgish;lb;ltz;1252;0
+Macedonian;mk;mac;1251;0
+Malagasy;mg;mlg;1252;0
+Malay;ms;msa;1252;0
+Malayalam;ml;mal;2007;0
+Maltese;mt;mlt;28593;0
+Mandinka (Arabic);mnk-Arab;mno;2005;0
+Mandinka (Latin);mnk-Latn;mnk;2009;0
+Maori;mi;mri;2009;0
+Marathi;mr;mar;2000;0
+Marshallese;mh;mah;2009;0
+Moldavian;mo;mol;1250;0
+Mon;mnw;mnw;;0
+Mongolian (Cyrillic);mn;khk;2016;0
+Montenegrin (Cyrillic);cg-Cyrl;cgy;2016;0
+Montenegrin (Latin);cg-Latn;cgl;1250;0
+Nauruan;na;nau;2009;0
+Nepali;ne;nep;2000;0
+Norwegian;no;nor;1252;0
+Norwegian Nynorsk;nn;nno;1252;0
+Oriya;or;ori;2010;0
+Pashto;ps;pbu;2005;0
+Pijin;pis;pis;1252;0
+Portuguese - Portugal;pt-pt;por-PT;1252;0
+Portuguese_Brazil;pt-br;por-BR;1252;0
+Punjabi (Gurmukhi);pa;pan;2006;0
+Punjabi (Shahmukhi);pa-Arab;pnb;2005;0
+Rohingya;rhg;rhg;1252;0
+Romanian;ro;rum;1250;0
+Rundi;rn;run;1252;0
+Rwanda;rw-RW;kin;1252;0
+Samoan;sm;smo;2009;0
+Sanskrit;sa;san;2000;0
+Scottish Gaelic;gd;gla;1252;0
+Serbian (Cyrillic);sr;scc;1251;0
+Sesotho;st;sot;1252;0
+Shan;shn;shn;;0
+Sinhala;si;sin;2015;0
+Somali;so;som;1252;0
+Somali (Djibouti);so-dj;som-DJ;1252;0
+Somali (Ethiopia);so-et;som-ET;1252;0
+Somali (Kenya);so-ke;som-KE;1252;0
+Somali (Somalia);so-so;som-SO;1252;0
+Spanish - Argentine;es-ar;spa-AR;1252;0
+Spanish - Bolivi;es-bo;spa-BO;1252;0
+Spanish - Chile;es-cl;spa-CL;1252;0
+Spanish - Costa Rice;es-cr;spa-CR;1252;0
+Spanish - Dominican Republic;es-do;spa-DO;1252;0
+Spanish - Ecuador;es-ec;spa-EC;1252;0
+Spanish - El Salvador;es-sv;spa-SV;1252;0
+Spanish - Guatemala;es-gt;spa-GT;1252;0
+Spanish - Honduras;es-hn;spa-HN;1252;0
+Spanish - Nicaragua;es-ni;spa-NI;1252;0
+Spanish - Panama;es-pa;spa-PA;1252;0
+Spanish - Paraguay;es-py;spa-PY;1252;0
+Spanish - Peru;es-pe;spa-PE;1252;0
+Spanish - Puerto Rico;es-pr;spa-PR;1252;0
+Spanish - Spain;es-es;spa-ES;1252;0
+Spanish - United States;es-us;spa-US;1252;0
+Spanish - Uruguay;es-uy;spa-UY;1252;0
+Spanish - Venezuela;es-ve;spa-VE;1252;0
+Spanish_Mexico;es-mx;spa-MX;1252;0
+Spansih - Colombia;es-co;spa-CO;1252;0
+Sudanese Creole Arabic;pga;pga;1252;0
+Sundanese;su;sun;1252;0
+Swahili;sw;swa;1252;0
+Swedish (Finland);sv-fi;swe-FI;1252;0
+Swedish (Sweden);sv-se;swe-SE;1252;0
+Tagalog;tl;tgl;1252;0
+Tajiki (Cyrillic);tg-Cyrl;tgk;2016;0
+Tamazight;tzm-Latn;tzm;2009;0
+Tamil;ta;tam;2001;0
+Telugu;te;tel;2003;0
+Tetun Dili;tdt;tdt;2009;0
+Thai;th;tha;;0
+Tigrigna;ti-ET;tir;;0
+Tok Pisin;tpi;tpi;1252;0
+Tongan ;to;ton;2009;0
+Torres Strait Creole;tcs;tcs;2009;0
+Tswana;tn-BW;tsn;1252;0
+Turkmen (Latin);tk;tuk;1250;0
+Tuvaluan ;tvl;tvl;2009;0
+Urdu;ur;urd;1256;0
+Uzbek (Cyrillic);uz;uzn;2016;0
+Uzbek (Latin);uz-Latn-UZ;uzb;2009;0
+Vietnamese;vi;vie;1258;0
+Welsh ;cy;wel;1252;0
+Xhosa;xh;xho;1252;0
+Yiddish;yi;yid;1255;0
+Yoruba;yo;yor;2009;0
+Zulu;zu;zul;1252;0
